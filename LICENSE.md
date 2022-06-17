@@ -1,7 +1,7 @@
-The MIT License (MIT)
+The  License
 =====================
 
-Copyright © `<2018>` `<Bennett Dixon & Brennan D Baraban>`
+Copyright © `<2022>` `<Laleye Amanda>`
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
