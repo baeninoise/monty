@@ -1,4 +1,4 @@
-# :snake: Monty Interpreter
+# Monty Interpreter
 
 Welcome to the Monty Bytecode Interpreter. This interpreter was built in the C language and is compliant with `ISO90`, `ISO99`, & `ISO11`. It reads Monty bytecode files of any extension (preferably `.m` although it doesn't matter), and interprets the opcodes contained.
 
@@ -189,23 +189,3 @@ $ cd Betty; ./install.sh
 * 0.1.0
 
 
-## :blue_book: Authors
-
-* **Brennan D Baraban** - [@bdbaraban](https://github.com/bdbaraban)
-
-* **Bennett Dixon** - [@BennettDixon](https://github.com/BennettDixon)
-
-
-## :mag: License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-
-## :mega: Acknowledgments
-
-* Holberton School (providing guidance)
-* Stack Overflow (help on various memory errors (not leaks))
-
-<p align="center">
-  <img src="http://www.holbertonschool.com/holberton-logo.png">
-</p>
